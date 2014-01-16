@@ -1,10 +1,10 @@
-MeusicGenerator
+MusicGenerator
 ===============
 
 Music phrase generator.
 
 Demonstration video:
-http://www.youtube.com/watch?v=EzGlyDgAtBU
+http://www.youtube.com/watch?v=EzGlyDgAtBU (Music generator 3 - Chord, melody and rhythm generation)
 
 Credits:
 - Matevž Baloh (https://github.com/errorage)
@@ -54,3 +54,6 @@ How tone generation works (music theory):
 
 Questions?
 - Feel free to contact me at the email address provided at https://github.com/errorage. I'll be happy to help.
+
+Can't understand comments?
+- They are in Slovene. Some are relevant, others are not. Use google translate, you're welcome to translate them to english! :)
