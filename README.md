@@ -7,7 +7,7 @@ Demonstration video:
 http://www.youtube.com/watch?v=EzGlyDgAtBU (Music generator 3 - Chord, melody and rhythm generation)
 
 Credits:
-- Matevž Baloh (https://github.com/errorage)
+- Matevž Baloh (https://github.com/balohmatevz)
 - You are welcome to add your name and github account here if you contribute to this repo
 
 How the programs work:
@@ -53,7 +53,7 @@ How tone generation works (music theory):
   - The only condition is that the extension can't happen at the fourth sixteenth note in a quarternote. This is because it would extend past the quarternote it starts in. So the sequence: X X X X (X = sixteenth note period, - = continuation) can validly be changed to X-X X X or X X-X X or X-X X-X (among many others), but it can't be changed into X X X X- (with the - extending into a sixteenth note that is not part of this quarternote period). This is called sincopation, and is definitely not forbidden in 'proper' music composition. But the rules of sincopation were not programmed into the application, so it made more sense to not allow it. 
 
 Questions?
-- Feel free to contact me at the email address provided at https://github.com/errorage. I'll be happy to help.
+- Feel free to contact me at the email address provided at https://github.com/balohmatevz. I'll be happy to help.
 
 Can't understand comments?
 - They are in Slovene. Some are relevant, others are not. Use google translate, you're welcome to translate them to english! :)
